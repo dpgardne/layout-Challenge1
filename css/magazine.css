@@ -1,0 +1,172 @@
+body {
+	margin: 0px;
+}
+
+#logo {
+	float: left;
+	background-color: #e4e8e3;
+	height: 100px;	
+	margin-bottom: 20px;
+	width: 10%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 50px;
+}
+
+#nav1 {
+	float: left;
+	background-color: #e4e8e3;
+	height: 50px;	
+	margin-bottom: 20px;
+	width: 10%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 50px;
+}
+
+#nav2 {
+	float: left;
+	background-color: #e4e8e3;
+	height: 50px;	
+	margin-bottom: 20px;
+	width: 10%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 50px;
+}
+
+#nav3 {
+	float: left;
+	background-color: #e4e8e3;
+	height: 50px;	
+	margin-bottom: 20px;
+	width: 10%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 50px;
+}
+
+#nav4 {
+	float: left;
+	background-color: #e4e8e3;
+	height: 50px;	
+	margin-bottom: 20px;
+	width: 10%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 50px;
+	
+}
+
+#nav5 {
+	float: left;
+	background-color: #e4e8e3;
+	height: 50px;	
+	margin-bottom: 20px;
+	width: 10%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 50px;
+	
+}
+
+#banner {
+	float: right;
+	width: 78%;
+	background-color: #e4e8e3;
+	height: 200px;
+	margin-bottom: 20px;
+	clear: both;	
+}
+
+
+#sidebar {
+	float: left;
+	width: 10%;
+	background-color: #e4e8e3;
+	height: 800px;
+	margin-bottom: 80px;
+	margin-top: 180px;
+	margin-left: 30px;
+	position: absolute;
+	clear: both;
+
+}
+
+#div1 {
+	clear: both;
+	float: right;
+	width: 18%;
+	background-color: #e4e8e3;
+	margin-bottom: 20px;
+	margin-right: 2%;
+	margin-left: 10%;
+	height: 400px;
+	
+
+}
+
+#div2	 {
+	float: right;
+	width: 48%;
+	background-color: #e4e8e3;
+	margin-bottom: 20px;
+	margin-left: 2%;
+	height: 400px;
+
+
+}
+
+
+#diva {
+	float: right;
+	width: 15%;
+	background-color: #e4e8e3;
+	margin-bottom: 20px;
+	margin-right: 2%;
+	height: 150px;
+	clear: both;
+
+}
+
+#divb	 {
+	float: right;
+	width: 15%;
+	background-color: #e4e8e3;
+	margin-bottom: 20px;
+	margin-left: 2%;
+	margin-right: 2%;
+	height: 150px;
+
+}
+
+
+#divc	 {
+	float: right;
+	width: 15%;
+	background-color: #e4e8e3;
+	margin-bottom: 20px;
+	margin-left: 2%;
+	margin-right: 2%;
+	height: 150px;
+
+}
+
+
+#divd	 {
+	float: right;
+	width: 15%;
+	background-color: #e4e8e3;
+	margin-bottom: 20px;
+	margin-left: 2%;
+	margin-right: 2%;
+	height: 150px;
+
+}
+
+#footer {
+	background-color: #e4e8e3;
+	height: 100px;
+	clear:both;	
+	margin-top: 20px;
+}
